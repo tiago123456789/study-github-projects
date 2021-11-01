@@ -16,3 +16,8 @@ Tarefas:
 ============
 
 - [ ] sub tarefas devem ser criadas assim.
+
+Imagens, documentos ou links de apoio:
+=================================
+
+Imagens, documentos ou link de apoio aqui, caso exista.
